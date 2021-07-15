@@ -13,3 +13,9 @@ This repository contains mini react projects based on `React Hooks`, `context AP
 #### Reviews
 
 #### Accordion
+
+#### Tabs
+
+#### Slider
+
+#### Lorem Ipsum
