@@ -23,3 +23,7 @@ This repository contains mini react projects based on `React Hooks`, `context AP
 #### Color Generator
 
 #### Grocery Bud
+
+#### Navbar
+
+#### Sidebar and Modal
