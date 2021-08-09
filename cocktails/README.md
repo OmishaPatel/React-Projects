@@ -4,12 +4,16 @@ In this project user can search their favorite cocktail. This project is using t
 
 # React Hooks Utilized
 
-useState
-useRef
-useEffect
-ContextAPI
-React Router
+#### `useState`
+
+#### `useRef`
+
+#### `useEffect`
+
+#### `ContextAPI`
+
+#### `React Router`
 
 # Deployed Site
 
-![Cocktail App](https://reactcocktail-db.netlify.app/)
+[Cocktail App](https://reactcocktail-db.netlify.app/)

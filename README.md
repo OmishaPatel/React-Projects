@@ -34,4 +34,4 @@ This repository contains mini react projects based on `React Hooks`, `context AP
 
 #### Calculator
 
-#### COcktails App
+#### Cocktails App
